@@ -4,12 +4,12 @@ This code was used to do the analysis containted in [this blogpost](https://medi
 Python 3.8.1
 
 ##### Libraries used 
-pandas
-numpy
-seaborn
-datetime
-geopy
-matplotlib
+- pandas
+- numpy
+- seaborn
+- datetime
+- geopy
+- matplotlib
 
 ##### Summary of results
 - Property sales numbers rose after the HS2 announcement before falling in 2019, perhaps due to the Brexit referendum result
